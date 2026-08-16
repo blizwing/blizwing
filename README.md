@@ -22,13 +22,17 @@ I'm Pratham — currently working the QA/SDET side professionally while completi
 
 <br/>
 
-### 🧩 What I'm actually building
+### 🧩 Currently building
 
-| Project | What it does |
-|---|---|
-| **LLM Eval Harness** | Detects silent failure modes in production LLM systems — fabrication, drift, non-determinism |
-| **Job Applier** | Chrome extension + FastAPI backend automating end-to-end job applications, Gmail OAuth, multi-provider AI routing |
-| **Chronicle AI** | Android narrative simulation engine — three-tier memory architecture, local `llama.cpp` inference |
+**[LLM Eval Harness](https://github.com/blizwing/PLACEHOLDER-repo-name)**
+Detecting silent failure modes in production LLM systems — confident fabrication on ungrounded fields, non-determinism at temperature=0, the failures that pass every check and are still wrong.
+`Python` `DeepSeek API` `Eval Design`
+
+**[Job Applier](https://jobsapp.blueflameapps.com)**
+End-to-end job application automation — Chrome extension (MV3) with semantic field-detection, FastAPI backend, Gmail OAuth, multi-provider AI routing. Live UAT deployment.
+`Python` `FastAPI` `Chrome Extension` `PostgreSQL` `AWS Lightsail` `Docker`
+
+More projects (including Chronicle AI) → [**PROJECTS.md**](./PROJECTS.md)
 
 <br/>
 
@@ -58,6 +62,12 @@ I'm Pratham — currently working the QA/SDET side professionally while completi
 </div>
 
 <img src="./metrics.isocalendar.svg" width="100%" alt="Contribution calendar"/>
+
+<br/>
+
+### 🎭 Off the clock
+
+Test cases and model evals during the day, a decent amount of reading and games the rest of the time.
 
 <br/>
 
