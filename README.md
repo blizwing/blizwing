@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=A371F7&center=true&vCenter=true&width=600&lines=Quality+today.+Intelligence+tomorrow.;Testing+is+just+adversarial+ML+with+extra+steps.;Currently%3A+building+an+eval+harness+for+silent+LLM+failures.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=A371F7&center=true&vCenter=true&width=750&lines=Quality+today.+Intelligence+tomorrow.;Testing+is+just+adversarial+ML+with+extra+steps.;Currently%3A+building+an+eval+harness+for+silent+LLM+failures.)](https://git.io/typing-svg)
 
 </div>
 
@@ -54,14 +54,16 @@ More projects (including Chronicle AI) → [**PROJECTS.md**](./PROJECTS.md)
 
 ### 📊 GitHub Stats
 
-<img src="./metrics.svg" width="100%" alt="GitHub metrics overview"/>
-
 <div align="center">
-<img src="./metrics.languages.svg" width="49%" alt="Top languages"/>
-<img src="https://streak-stats.demolab.com/?user=blizwing&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=A371F7&fire=F778BA&currStreakLabel=A371F7" width="49%" alt="Contribution streak"/>
+<img src="./metrics.svg" width="480" alt="GitHub metrics overview"/>
 </div>
 
-<img src="./metrics.isocalendar.svg" width="100%" alt="Contribution calendar"/>
+<br></br>
+
+<div align="center">
+<img src="./metrics.languages.svg" width="480" alt="Top languages"/>
+<img src="https://streak-stats.demolab.com/?user=blizwing&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=A371F7&fire=F778BA&currStreakLabel=A371F7" width="495" alt="Contribution streak"/>
+</div>
 
 <br/>
 
