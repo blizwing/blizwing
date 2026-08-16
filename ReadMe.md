@@ -8,9 +8,9 @@ Hi there! 👋<br>I’m Pratham, a passionate QA Engineer and aspiring AI Enthus
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=blizwing&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=blizwing&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=blizwing&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=blizwing&theme=dark&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=86400)<br/>
+![](https://streak-stats.demolab.com/?user=blizwing&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=blizwing&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=86400)
 
 
 ### ✍️ Random Dev Quote
