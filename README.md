@@ -24,7 +24,7 @@ I'm Pratham — currently working the QA/SDET side professionally while completi
 
 ### 🧩 Currently building
 
-**[LLM Eval Harness](https://github.com/blizwing/PLACEHOLDER-repo-name)**
+**[LLM Eval Harness](https://github.com/blizwing/eval-harness)**
 Detecting silent failure modes in production LLM systems — confident fabrication on ungrounded fields, non-determinism at temperature=0, the failures that pass every check and are still wrong.
 `Python` `DeepSeek API` `Eval Design`
 
@@ -73,7 +73,7 @@ Test cases and model evals during the day, a decent amount of reading and games 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathammhatre/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://blueflameapps.com)
 
 <img src="https://komarev.com/ghpvc/?username=blizwing&style=for-the-badge&color=a371f7" alt="Profile views"/>

@@ -12,7 +12,7 @@ Built to catch a specific failure class: LLMs don't crash when they're wrong, th
 Built against DeepSeek's API across both Anthropic-compatible and OpenAI-compatible schema endpoints — deliberately, since schema-surface differences turned out to change reliability characteristics even for the same underlying model and prompt.
 
 **Stack:** Python, DeepSeek API, custom eval scaffolding
-**Link:** [github.com/blizwing/PLACEHOLDER-repo-name](https://github.com/blizwing/PLACEHOLDER-repo-name)
+**Link:** [github.com/blizwing/eval-harness](https://github.com/blizwing/eval-harness)
 
 ---
 
