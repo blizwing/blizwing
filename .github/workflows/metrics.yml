@@ -37,6 +37,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.isocalendar.svg
           base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_calendar: yes
           config_timezone: Asia/Kolkata
